@@ -1,0 +1,19 @@
+*-Ex.R
+.Rhistory
+.RData
+.Rproj.user
+*.csv
+*.xls
+*.xlsm
+*.xml
+*.html
+/Random Statistical Analysis/Boxture_cache/
+/Random Statistical Analysis/Boxture.html
+/Random Statistical Analysis/Boxture.Rmd
+/R Programming/ass3/*
+/ExploratoryDA/household_power_consumption.txt
+/ExploratoryDA/summarySCC_PM25.rds
+/ExploratoryDA/Source_Classification_Code.rds
+!/PracticalML/project/*
+/Crowdsourcing_Data_Analysis_2_EDGE_org/Edge_cache/
+/Crowdsourcing_Data_Analysis_2_EDGE_org/Edge_files/
